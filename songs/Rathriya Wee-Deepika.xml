@@ -1,3 +1,10 @@
+<song><title>Kawulupiyanpath - &#3482;&#3520;&#3540;&#3517;&#3540;&#3508;&#3538;&#3514;&#3505;&#3530;&#3508;&#3501;&#3530;</title>
+  <artist>Kasun Kalhara</artist><time_sig>4/4</time_sig><tempo>120</tempo><style>Salsa</style><ots1>S.Art HonkyTonkUpright</ots1>
+  <ots2>MegaVoice TenorSax</ots2><ots3>Cool! DX Ballad</ots3><ots4>S.Art AllBarsOut JS</ots4>
+ </notes><section_order><section name="INTRO" color="#3498db" /><section name="CHORUS" color="#27ae60" /><section name="OUTRO" color="#9b59b6" /></section_order><chord_grid><row type="chords"><cell>Bb</cell><cell>C</cell><cell>C#</cell><cell /></row><row type="section"><cell>INTRO</cell></row><row type="chords"><cell>c</cell><cell>c</cell><cell>c</cell><cell>C#/Fm</cell></row><row type="chords"><cell>F#</cell><cell>C#</cell><cell>B</cell><cell /></row><row type="section"><cell>CHORUS</cell></row><row type="chords"><cell>Bb</cell><cell /><cell>F#</cell><cell /></row><row type="section"><cell>INTER</cell></row><row type="chords"><cell>Bb</cell><cell>C</cell><cell>C#</cell><cell>Eb</cell></row></chord_grid></song>
+
+
+<content>
 [Intro]
   [Bm]        [B7]    -  [F#m] 
   [A]   [A/Bm]   [G]    Em
@@ -48,3 +55,4 @@ asan himiyane...
  [D]    [Em]        [D]     [A]  
 kata kiyannada may duka..
 [Bm]           [A]    [D]    [Bm] 
+</content>
