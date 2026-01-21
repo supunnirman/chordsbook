@@ -1,0 +1,66 @@
+<song><title>Kawulupiyanpath - &#3482;&#3520;&#3540;&#3517;&#3540;&#3508;&#3538;&#3514;&#3505;&#3530;&#3508;&#3501;&#3530;</title>
+ <artist>Kasun Kalhara</artist>
+ <time_sig>4/4</time_sig>
+ <tempo>120</tempo>
+ <style>Salsa</style><ots1>S.Art HonkyTonkUpright</ots1><ots2>MegaVoice TenorSax</ots2><ots3>Cool! DX Ballad</ots3><ots4>S.Art AllBarsOut JS</ots4>
+ 
+ <content>
+ [Intro]
+-
+[F#m]  [D]  [F#m] [D]  
+
+[CHORUS]
+[F#m]       [Dmaj7]    [E]
+මධු විත විඳි රෑ වෙරළ තලේ 
+       [C#m]   [E]  [F#m] 
+ඈ නෙතු හසරැල් මා නෙතඟ වෙලේ  
+සඳ සිසිලයි මා සිත පතන සුවේ  
+ඒ සඳ නුඹමයි හද අඹරේ මගේ  
+
+මධු විත විඳි රෑ වෙරළ තලේ  
+ඈ නෙතු හසරැල් මා නෙතඟ වෙලේ  
+සඳ සිසිලයි මා සිත පතන සුවේ  
+ඒ සඳ නුඹමයි හද අඹරේ මගේ  
+
+ඇත සිත ඉඩ දී මා  
+නෙතු කැන් පියවී  
+සුව යහනකි ඈ ලැම ගතට දැනේ  
+දේවදූතියක් දෙනෙත පිනාවී  
+ඒ හසරැල් හිමි මටද නුඹේ  
+
+මධු විත විඳි රෑ වෙරළ තලේ  
+ඈ නෙතු හසරැල් මා නෙතඟ වෙලේ  
+සඳ සිසිලයි මා සිත පතන සුවේ  
+ඒ සඳ නුඹමයි හද අඹරේ මගේ  
+
+ලවැලි තලාවේ හමු වූ වෙලාවේ  
+නුඹේ දෙතොලින් පවසන හැඟුමන්  
+හැකිද වලාවේ ලොවම මුලාවේ  
+දමා නොගෙනු හෙට දින අළුයම්  
+නොවනු සඳේ මේ රැය අවසන්  
+
+මධු විත විඳි රෑ වෙරළ තලේ  
+ඈ නෙතු හසරැල් මා නෙතඟ වෙලේ  
+සඳ සිසිලයි මා සිත පතන සුවේ  
+ඒ සඳ නුඹමයි හද අඹරේ මගේ  
+
+නිදි නෑ මම මේ වෙරළ තලේ
+``` :contentReference[oaicite:1]{index=1}
+
+Would you like an **English translation** of these lyrics too? (I can provide that if you want.)
+::contentReference[oaicite:2]{index=2}
+
+
+</content>
+ 
+ <notes>
+
+ SAMPLE NOTES
+ </notes>
+ 
+ <section_order><section name="INTRO" color="#3498db" />
+  <section name="CHORUS" color="#27ae60" /><section name="OUTRO" color="#9b59b6" /></section_order><chord_grid>
+   <row type="chords"><cell>Bb</cell><cell>C</cell><cell>C#</cell><cell /></row>
+   <row type="section"><cell>INTRO</cell></row><row type="chords"><cell>c</cell><cell>c</cell><cell>c</cell><cell>C#/Fm</cell></row><row type="chords">
+    <cell>F#</cell><cell>C#</cell><cell>B</cell><cell /></row><row type="section"><cell>CHORUS</cell></row><row type="chords"><cell>Bb</cell><cell />
+     <cell>F#</cell><cell /></row><row type="section"><cell>INTER</cell></row><row type="chords"><cell>Bb</cell><cell>C</cell><cell>C#</cell><cell>Eb</cell></row></chord_grid></song>
