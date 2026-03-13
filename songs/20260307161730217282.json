@@ -1,0 +1,54 @@
+{
+  "id": "20260307161730217282",
+  "title": "dfsdfsd",
+  "artist": "",
+  "key": "C",
+  "tuning": "Standard (EADGBe)",
+  "bpm": 120,
+  "capo": 0,
+  "difficulty": "Intermediate",
+  "body": "[Intro]\n# C  G  Am  F\n\n[Verse 1]\n# C         G\nToday is a wonderful day\n# Am        F\nEverything feels okay\n\n[Chorus]\n# F  C  G  Am\nSing it out loud\n\n[Bridge]\n# Dm  Am  Bb  F\nWhen the night falls down",
+  "notes": "",
+  "created": "2026-03-07 16:17",
+  "modified": "2026-03-11 13:30",
+  "original_body": null,
+  "original_key": null,
+  "favorite": false,
+  "chord_grid": [
+    {
+      "type": "section",
+      "label": "INTRO"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "C",
+        "-",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Dm",
+        "-",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Em",
+        "-",
+        "Am",
+        "-"
+      ]
+    },
+    {
+      "type": "section",
+      "label": "CHORUS"
+    }
+  ]
+}
