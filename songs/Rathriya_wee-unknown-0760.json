@@ -35,6 +35,24 @@
         "A",
         "A*Bm"
       ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "G",
+        "Em",
+        "A",
+        "Bm"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "A",
+        "D",
+        "Bm",
+        ""
+      ]
     }
   ],
   "favorite": false,
