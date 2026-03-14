@@ -35,6 +35,42 @@
         "F",
         "C"
       ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Bb",
+        "-",
+        "C",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Bb",
+        "-",
+        "C",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "C",
+        "Bb",
+        "C",
+        "Bb"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "C",
+        "Bb",
+        "C",
+        "X"
+      ]
     }
   ],
   "favorite": false,
