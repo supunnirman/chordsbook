@@ -93,6 +93,10 @@
         "Am",
         "-"
       ]
+    },
+    {
+      "type": "section",
+      "label": "VERSE"
     }
   ],
   "favorite": false,
