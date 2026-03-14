@@ -13,7 +13,12 @@
   "modified": "2026-03-14 10:44",
   "original_body": null,
   "original_key": null,
-  "chord_grid": [],
+  "chord_grid": [
+    {
+      "type": "section",
+      "label": ""
+    }
+  ],
   "favorite": false,
   "_cloud_filename": "Aaatha_Epita-Clarance_Wijewardene-2230"
 }
