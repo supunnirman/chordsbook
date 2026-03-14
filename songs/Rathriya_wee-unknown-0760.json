@@ -53,6 +53,10 @@
         "Bm",
         ""
       ]
+    },
+    {
+      "type": "section",
+      "label": "CHOR"
     }
   ],
   "favorite": false,
