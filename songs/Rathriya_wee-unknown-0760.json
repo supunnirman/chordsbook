@@ -70,6 +70,51 @@
     {
       "type": "section",
       "label": "VERSE"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Bm",
+        "-",
+        "A7",
+        "Bm"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Bm",
+        "-",
+        "A7",
+        "Bm"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "A",
+        "G",
+        "D",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "B",
+        "G",
+        "D*Em",
+        "D*A"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Bm",
+        "Bm*A",
+        "D",
+        ""
+      ]
     }
   ],
   "favorite": false,
