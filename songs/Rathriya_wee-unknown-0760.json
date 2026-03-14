@@ -17,6 +17,24 @@
     {
       "type": "section",
       "label": "INTRO/INTER"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Bm",
+        "-",
+        "B7",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "F#m",
+        "-",
+        "A",
+        "A*Bm"
+      ]
     }
   ],
   "favorite": false,
