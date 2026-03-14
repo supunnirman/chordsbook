@@ -97,6 +97,42 @@
     {
       "type": "section",
       "label": "VERSE"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Am",
+        "-",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Am",
+        "-",
+        "G",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Em",
+        "-",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Em",
+        "Em7",
+        "Am",
+        "-"
+      ]
     }
   ],
   "favorite": false,
