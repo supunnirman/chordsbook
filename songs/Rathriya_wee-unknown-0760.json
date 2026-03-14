@@ -57,6 +57,19 @@
         "A*D",
         "Bm"
       ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "G",
+        "A",
+        "Bm",
+        ""
+      ]
+    },
+    {
+      "type": "section",
+      "label": "VERSE"
     }
   ],
   "favorite": false,
