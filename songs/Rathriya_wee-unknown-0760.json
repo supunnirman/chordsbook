@@ -13,7 +13,12 @@
   "modified": "2026-03-14 16:06",
   "original_body": null,
   "original_key": null,
-  "chord_grid": [],
+  "chord_grid": [
+    {
+      "type": "section",
+      "label": "INTRO"
+    }
+  ],
   "favorite": false,
   "_cloud_filename": "Rathriya_wee-unknown-0760"
 }
