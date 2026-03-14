@@ -75,6 +75,42 @@
     {
       "type": "section",
       "label": "CHORUS"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "C",
+        "C7",
+        "F",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "F",
+        "-",
+        "C",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "C7",
+        "-",
+        "F",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Bb",
+        "-",
+        "C",
+        "- x 4"
+      ]
     }
   ],
   "favorite": false,
