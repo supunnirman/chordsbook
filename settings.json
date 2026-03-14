@@ -4,11 +4,14 @@
   "flask_port": "5055",
   "show_clock": "0",
   "show_timer": "0",
-  "chord_color": "#a3e635",
+  "chord_color": "#000000",
   "section_color": "#38bdf8",
   "lyric_color": "#94a3b8",
-  "chord_highlight_color": "#64748b",
+  "chord_highlight_color": "#a3e635",
   "appearance": "dark",
+  "chord_bold": "1",
+  "section_bold": "1",
+  "lyric_bold": "0",
   "chord_cell_colors": "{'tonic': '#1e4d2b', 'subdominant': '#2a2a10', 'dominant': '#3a1a0a', 'other': '#0f1a2e'}",
   "chord_cell_fg": "{'tonic': '#4ade80', 'subdominant': '#f472b6', 'dominant': '#f87171', 'other': '#e0f2ff'}"
 }
