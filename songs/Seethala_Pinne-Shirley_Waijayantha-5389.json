@@ -13,7 +13,12 @@
   "modified": "2026-03-14 14:23",
   "original_body": null,
   "original_key": null,
-  "chord_grid": [],
+  "chord_grid": [
+    {
+      "type": "section",
+      "label": "INTRO / INTER"
+    }
+  ],
   "favorite": false,
   "_cloud_filename": "Seethala_Pinne-Shirley_Waijayantha-5389"
 }
