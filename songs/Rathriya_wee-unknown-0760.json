@@ -57,6 +57,24 @@
     {
       "type": "section",
       "label": "CHORUS"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "",
+        "G",
+        "A",
+        "Bm"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "B",
+        "-",
+        "D",
+        "A"
+      ]
     }
   ],
   "favorite": false,
