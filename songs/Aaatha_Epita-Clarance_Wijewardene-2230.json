@@ -17,6 +17,15 @@
     {
       "type": "section",
       "label": "INTRO"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "",
+        "",
+        "",
+        ""
+      ]
     }
   ],
   "favorite": false,
