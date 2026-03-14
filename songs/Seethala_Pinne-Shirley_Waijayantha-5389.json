@@ -53,6 +53,10 @@
         "Am",
         "Am"
       ]
+    },
+    {
+      "type": "section",
+      "label": "CHORUS"
     }
   ],
   "favorite": false,
