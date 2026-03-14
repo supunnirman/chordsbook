@@ -22,16 +22,16 @@
       "type": "chords",
       "cells": [
         "Bm",
-        "-",
         "B7",
-        "-"
+        "F#",
+        "A"
       ]
     },
     {
       "type": "chords",
       "cells": [
-        "F#m",
-        "-",
+        "G*Em",
+        "A*Bm",
         "A",
         "A*Bm"
       ]
@@ -39,42 +39,15 @@
     {
       "type": "chords",
       "cells": [
-        "G",
-        "Em",
-        "A",
-        "Bm"
-      ]
-    },
-    {
-      "type": "chords",
-      "cells": [
-        "A",
-        "D",
-        "Bm",
-        ""
+        "A*D",
+        "B",
+        "x",
+        "x"
       ]
     },
     {
       "type": "section",
       "label": "CHORUS"
-    },
-    {
-      "type": "chords",
-      "cells": [
-        "",
-        "G",
-        "A",
-        "Bm"
-      ]
-    },
-    {
-      "type": "chords",
-      "cells": [
-        "B",
-        "-",
-        "D",
-        "A"
-      ]
     }
   ],
   "favorite": false,
