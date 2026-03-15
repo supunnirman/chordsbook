@@ -40,6 +40,46 @@
     {
       "type": "section",
       "label": "CHORUS"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Em",
+        "D",
+        "Em",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Em",
+        "D",
+        "C",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Am",
+        "-",
+        "G",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "D",
+        "-",
+        "Em",
+        "-"
+      ]
+    },
+    {
+      "type": "section",
+      "label": "VERSE"
     }
   ],
   "favorite": false,
