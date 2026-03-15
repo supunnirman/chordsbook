@@ -47,10 +47,6 @@
       ]
     },
     {
-      "type": "section",
-      "label": "CHORUS"
-    },
-    {
       "type": "chords",
       "cells": [
         "",
@@ -58,6 +54,10 @@
         "",
         ""
       ]
+    },
+    {
+      "type": "section",
+      "label": "CHORUS"
     },
     {
       "type": "chords",
