@@ -80,6 +80,42 @@
     {
       "type": "section",
       "label": "VERSE"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Em",
+        "Bm",
+        "Em",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "D",
+        "D7",
+        "G",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Bm",
+        "-",
+        "D",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "D",
+        "C",
+        "Em",
+        "-"
+      ]
     }
   ],
   "favorite": false,
