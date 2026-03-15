@@ -112,6 +112,10 @@
         "C",
         "- ] x 4"
       ]
+    },
+    {
+      "type": "section",
+      "label": "VERS"
     }
   ],
   "favorite": false,
