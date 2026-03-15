@@ -13,5 +13,7 @@
   "section_bold": "1",
   "lyric_bold": "0",
   "chord_cell_colors": "{'tonic': '#1e4d2b', 'subdominant': '#2a2a10', 'dominant': '#3a1a0a', 'other': '#0f1a2e'}",
-  "chord_cell_fg": "{'tonic': '#4ade80', 'subdominant': '#f472b6', 'dominant': '#f87171', 'other': '#e0f2ff'}"
+  "chord_cell_fg": "{'tonic': '#4ade80', 'subdominant': '#f472b6', 'dominant': '#f87171', 'other': '#e0f2ff'}",
+  "bg_opacity": "0.36",
+  "bg_grad_mode": "gradient"
 }
