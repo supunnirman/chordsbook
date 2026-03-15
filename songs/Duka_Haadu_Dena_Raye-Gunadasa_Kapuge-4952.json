@@ -18,6 +18,24 @@
     {
       "type": "section",
       "label": "INTRO/INTER"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "[Em",
+        "-",
+        "G",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "Am",
+        "D",
+        "Em",
+        "-]"
+      ]
     }
   ],
   "favorite": false,
