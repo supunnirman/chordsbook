@@ -16,15 +16,6 @@
   "original_key": null,
   "chord_grid": [
     {
-      "type": "chords",
-      "cells": [
-        "",
-        "",
-        "",
-        ""
-      ]
-    },
-    {
       "type": "section",
       "label": "INTRO/INTER"
     },
@@ -35,6 +26,15 @@
         "-",
         "G",
         "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "",
+        "",
+        "",
+        ""
       ]
     },
     {
