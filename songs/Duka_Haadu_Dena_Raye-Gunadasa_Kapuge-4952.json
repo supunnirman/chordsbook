@@ -14,7 +14,12 @@
   "modified": "2026-03-15 13:17",
   "original_body": null,
   "original_key": null,
-  "chord_grid": [],
+  "chord_grid": [
+    {
+      "type": "section",
+      "label": "INTR"
+    }
+  ],
   "favorite": false,
   "_cloud_filename": "Duka_Haadu_Dena_Raye-Gunadasa_Kapuge-4952"
 }
