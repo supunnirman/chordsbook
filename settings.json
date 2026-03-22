@@ -1,5 +1,5 @@
 {
-  "chord_font_size": "18",
+  "chord_font_size": "15",
   "lyric_font_size": "19",
   "flask_port": "5055",
   "show_clock": "0",
