@@ -75,6 +75,10 @@
         "G*C",
         "-"
       ]
+    },
+    {
+      "type": "section",
+      "label": "VERSE"
     }
   ],
   "favorite": false,
