@@ -17,6 +17,33 @@
     {
       "type": "section",
       "label": "INTRO"
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "D",
+        "-",
+        "C",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "G*C",
+        "G*C",
+        "D",
+        "-"
+      ]
+    },
+    {
+      "type": "chords",
+      "cells": [
+        "[D",
+        "C",
+        "G",
+        "D]]"
+      ]
     }
   ],
   "favorite": false,
