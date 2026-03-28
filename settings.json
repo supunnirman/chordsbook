@@ -4,7 +4,7 @@
   "flask_port": "5055",
   "show_clock": "0",
   "show_timer": "0",
-  "chord_color": "#e0f2ff",
+  "chord_color": "#000000",
   "section_color": "#38bdf8",
   "lyric_color": "#94a3b8",
   "chord_highlight_color": "#facc15",
