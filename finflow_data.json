@@ -1,1 +1,369 @@
-
+{
+  "transactions": [
+    {
+      "id": 1776158195107,
+      "type": "income",
+      "desc": "Supun Salary",
+      "amount": 133000.0,
+      "cat": "Salary",
+      "date": "2026-03-25",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Salary Account"
+    },
+    {
+      "id": 1776158216011,
+      "type": "income",
+      "desc": "Salary - Nirmali",
+      "amount": 150000.0,
+      "cat": "Salary",
+      "date": "2026-04-05",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Salary Account"
+    },
+    {
+      "id": 1776158302610,
+      "type": "income",
+      "desc": "Fuel Allowance",
+      "amount": 44000.0,
+      "cat": "Fuel Allowance",
+      "date": "2026-04-01",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Fuel Card"
+    },
+    {
+      "id": 1776158357950,
+      "type": "income",
+      "desc": "Vehicle Allowance",
+      "amount": 70000.0,
+      "cat": "Vehicle Allowance",
+      "date": "2026-04-07",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Amma Account"
+    },
+    {
+      "id": 1776158573044,
+      "type": "expense",
+      "desc": "PABC Credit Card",
+      "amount": 10000.0,
+      "cat": "Credit Card",
+      "date": "2026-04-10",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": ""
+    },
+    {
+      "id": 1776158617493,
+      "type": "expense",
+      "desc": "Electricity / Water / TV",
+      "amount": 30000.0,
+      "cat": "Utilities",
+      "date": "2026-04-08",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Salary Account"
+    },
+    {
+      "id": 1776158692489,
+      "type": "expense",
+      "desc": "Groceries for 2 weeks",
+      "amount": 20000.0,
+      "cat": "Shopping",
+      "date": "2026-04-06",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": ""
+    },
+    {
+      "id": 1776158717607,
+      "type": "expense",
+      "desc": "Grocerises for 2 weeks",
+      "amount": 20000.0,
+      "cat": "Shopping",
+      "date": "2026-04-25",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": ""
+    },
+    {
+      "id": 1776158741058,
+      "type": "expense",
+      "desc": "Yuvein Monti and 3wheel",
+      "amount": 12000.0,
+      "cat": "Education",
+      "date": "2026-04-06",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": ""
+    },
+    {
+      "id": 1776158782064,
+      "type": "expense",
+      "desc": "Amma Allowance - 5000",
+      "amount": 5000.0,
+      "cat": "Gifts",
+      "date": "2026-03-25",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Savings Account"
+    },
+    {
+      "id": 1776158808167,
+      "type": "expense",
+      "desc": "Amma Allowance - 10,000",
+      "amount": 10000.0,
+      "cat": "Gifts",
+      "date": "2026-04-06",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Salary Account"
+    },
+    {
+      "id": 1776158848173,
+      "type": "expense",
+      "desc": "Fuel for 2 weeks",
+      "amount": 10000.0,
+      "cat": "Transport",
+      "date": "2026-03-26",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Fuel Card"
+    },
+    {
+      "id": 1776158873135,
+      "type": "expense",
+      "desc": "Fuel for 2 weeks",
+      "amount": 10000.0,
+      "cat": "Transport",
+      "date": "2026-04-14",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Fuel Card"
+    },
+    {
+      "id": 1776158935026,
+      "type": "expense",
+      "desc": "Medicines",
+      "amount": 15000.0,
+      "cat": "Healthcare",
+      "date": "2026-04-01",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Salary Account"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Salary",
+      "icon": "💼",
+      "type": "income"
+    },
+    {
+      "name": "Business",
+      "icon": "🏢",
+      "type": "income"
+    },
+    {
+      "name": "Investment",
+      "icon": "📈",
+      "type": "income"
+    },
+    {
+      "name": "Freelance",
+      "icon": "💻",
+      "type": "income"
+    },
+    {
+      "name": "Fuel Allowance",
+      "icon": "⛽",
+      "type": "income"
+    },
+    {
+      "name": "Vehicle Allowance",
+      "icon": "🚘",
+      "type": "income"
+    },
+    {
+      "name": "Gifts",
+      "icon": "🎁",
+      "type": "both"
+    },
+    {
+      "name": "Food",
+      "icon": "🛒",
+      "type": "expense"
+    },
+    {
+      "name": "Housing",
+      "icon": "🏠",
+      "type": "expense"
+    },
+    {
+      "name": "Transport",
+      "icon": "🚗",
+      "type": "expense"
+    },
+    {
+      "name": "Healthcare",
+      "icon": "🏥",
+      "type": "expense"
+    },
+    {
+      "name": "Entertainment",
+      "icon": "🎬",
+      "type": "expense"
+    },
+    {
+      "name": "Utilities",
+      "icon": "💡",
+      "type": "expense"
+    },
+    {
+      "name": "Education",
+      "icon": "📚",
+      "type": "expense"
+    },
+    {
+      "name": "Shopping",
+      "icon": "🛍",
+      "type": "expense"
+    },
+    {
+      "name": "Allowance",
+      "icon": "💳",
+      "type": "expense"
+    },
+    {
+      "name": "Credit Card",
+      "icon": "💰",
+      "type": "expense"
+    },
+    {
+      "name": "Electricity",
+      "icon": "⚡",
+      "type": "expense"
+    },
+    {
+      "name": "Water Bill",
+      "icon": "🚿",
+      "type": "expense"
+    },
+    {
+      "name": "Dialog TV",
+      "icon": "📺",
+      "type": "expense"
+    },
+    {
+      "name": "Internet",
+      "icon": "🌐",
+      "type": "expense"
+    },
+    {
+      "name": "Fuel",
+      "icon": "⛽",
+      "type": "expense"
+    },
+    {
+      "name": "EMI",
+      "icon": "🏦",
+      "type": "expense"
+    },
+    {
+      "name": "Other",
+      "icon": "📦",
+      "type": "both"
+    }
+  ],
+  "settings": {
+    "currency": "LKR",
+    "currency_symbol": "Rs."
+  },
+  "emi_plans": [
+    {
+      "id": 1776158501415,
+      "name": "CAP-2197 Toyota Aqua",
+      "total_amount": 6448170.0,
+      "monthly_installment": 107000.0,
+      "months_remaining": 55,
+      "paid_so_far": 535000.0,
+      "lender": "Sampath bank",
+      "start_date": "2026-04-14",
+      "active": true,
+      "notes": ""
+    }
+  ],
+  "planner": [],
+  "savings_goals": [
+    {
+      "id": 1776159034531,
+      "name": "Vehicle Service",
+      "target": 30000.0,
+      "allocated": 5000.0,
+      "notes": "CAP-2197",
+      "created": "2026-04-14"
+    },
+    {
+      "id": 1776159075269,
+      "name": "Engine Tune-up",
+      "target": 22000.0,
+      "allocated": 5000.0,
+      "notes": "",
+      "created": "2026-04-14"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Salary Account",
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "name": "Savings Account",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "name": "Wallet",
+      "notes": ""
+    },
+    {
+      "id": 1776158254998,
+      "name": "Fuel Card",
+      "notes": "LWPLC Card"
+    },
+    {
+      "id": 1776158268608,
+      "name": "PABC Card",
+      "notes": "Credit Card"
+    },
+    {
+      "id": 1776158278983,
+      "name": "Nirmali Wallet",
+      "notes": ""
+    },
+    {
+      "id": 1776158324346,
+      "name": "Amma Account",
+      "notes": "For Car Allowance"
+    }
+  ],
+  "location_transfers": []
+}
