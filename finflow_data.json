@@ -203,6 +203,18 @@
       "notes": "Top-up from: Salary Account",
       "billing_month": "2026-04",
       "location": "💳 PABC Card"
+    },
+    {
+      "id": 1776182738109,
+      "type": "income",
+      "desc": "test",
+      "amount": 20000.0,
+      "cat": "Salary",
+      "date": "2026-04-12",
+      "recur": "once",
+      "notes": "Top-up from: Salary Account",
+      "billing_month": "2026-04",
+      "location": "💳 PABC Card"
     }
   ],
   "categories": [
@@ -466,7 +478,7 @@
       "name": "PABC Card",
       "last4": "0000",
       "credit_limit": 100000.0,
-      "available_credit": 56500.0,
+      "available_credit": 76500.0,
       "locked_credit": 0.0,
       "created": "2026-04-14"
     }
