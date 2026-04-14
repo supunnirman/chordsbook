@@ -179,6 +179,18 @@
       "notes": "Tyres",
       "billing_month": "2026-04",
       "location": "💳 PABC Card"
+    },
+    {
+      "id": 1776182330626,
+      "type": "income",
+      "desc": "Tyres",
+      "amount": 44000.0,
+      "cat": "Other",
+      "date": "2026-04-14",
+      "recur": "once",
+      "notes": "Top-up from: 🤲 Hands-on Cash",
+      "billing_month": "2026-04",
+      "location": "💳 PABC Card"
     }
   ],
   "categories": [
@@ -442,8 +454,8 @@
       "name": "PABC Card",
       "last4": "0000",
       "credit_limit": 100000.0,
-      "available_credit": 0.0,
-      "locked_credit": 50000.0,
+      "available_credit": 44000.0,
+      "locked_credit": 6000.0,
       "created": "2026-04-14"
     }
   ]
