@@ -347,7 +347,7 @@
       "id": 1776182082153,
       "name": "Front Tyre Replacement",
       "target": 50000.0,
-      "allocated": 5000.0,
+      "allocated": 10000.0,
       "notes": "CAP-2197",
       "created": "2026-04-14",
       "allocations": [
@@ -355,6 +355,12 @@
           "id": 1776182082153,
           "amount": 5000.0,
           "source": "🤲 Hands-on Cash",
+          "date": "2026-04-14"
+        },
+        {
+          "id": 1776182097670,
+          "amount": 5000.0,
+          "source": "Salary Account",
           "date": "2026-04-14"
         }
       ]
