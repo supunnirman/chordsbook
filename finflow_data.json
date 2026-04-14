@@ -309,6 +309,20 @@
       "notes": "",
       "cc_id": null,
       "payments": []
+    },
+    {
+      "id": 1776182237269,
+      "name": "Front Tyres Replacement",
+      "total_amount": 50000.0,
+      "monthly_installment": 4250.0,
+      "months_remaining": 12,
+      "paid_so_far": 0.0,
+      "lender": "PAN ASIA BANK",
+      "start_date": "2026-04-14",
+      "active": true,
+      "notes": "",
+      "cc_id": 1776181935084,
+      "payments": []
     }
   ],
   "planner": [
@@ -416,8 +430,8 @@
       "name": "PABC Card",
       "last4": "0000",
       "credit_limit": 100000.0,
-      "available_credit": 63788.0,
-      "locked_credit": 0.0,
+      "available_credit": 13788.0,
+      "locked_credit": 50000.0,
       "created": "2026-04-14"
     }
   ]
