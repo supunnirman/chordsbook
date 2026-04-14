@@ -167,6 +167,18 @@
       "notes": "",
       "billing_month": "2026-04",
       "location": ""
+    },
+    {
+      "id": 1776182292282,
+      "type": "expense",
+      "desc": "PABC Payment",
+      "amount": 20000.0,
+      "cat": "Gifts",
+      "date": "2026-04-14",
+      "recur": "once",
+      "notes": "Tyres",
+      "billing_month": "2026-04",
+      "location": "💳 PABC Card"
     }
   ],
   "categories": [
@@ -430,7 +442,7 @@
       "name": "PABC Card",
       "last4": "0000",
       "credit_limit": 100000.0,
-      "available_credit": 13788.0,
+      "available_credit": 0.0,
       "locked_credit": 50000.0,
       "created": "2026-04-14"
     }
