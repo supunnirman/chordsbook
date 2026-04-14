@@ -167,6 +167,18 @@
       "notes": "",
       "billing_month": "2026-04",
       "location": "Salary Account"
+    },
+    {
+      "id": 1776163827903,
+      "type": "expense",
+      "desc": "Groceries",
+      "amount": 8500.0,
+      "cat": "Food",
+      "date": "2026-04-14",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": ""
     }
   ],
   "categories": [
