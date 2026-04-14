@@ -309,7 +309,18 @@
       "notes": ""
     }
   ],
-  "planner": [],
+  "planner": [
+    {
+      "id": 1776165487520,
+      "name": "Downsouth Trip with Office buddies",
+      "target": 20000.0,
+      "reserved": 3000.0,
+      "deadline": "2026-05",
+      "notes": "",
+      "status": "active",
+      "created": "2026-04-14"
+    }
+  ],
   "savings_goals": [
     {
       "id": 1776159034531,
