@@ -85,18 +85,6 @@
       "location": ""
     },
     {
-      "id": 1776158717607,
-      "type": "expense",
-      "desc": "Grocerises for 2 weeks",
-      "amount": 20000.0,
-      "cat": "Shopping",
-      "date": "2026-04-25",
-      "recur": "once",
-      "notes": "",
-      "billing_month": "2026-04",
-      "location": ""
-    },
-    {
       "id": 1776158741058,
       "type": "expense",
       "desc": "Yuvein Monti and 3wheel",
