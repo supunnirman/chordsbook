@@ -12,6 +12,19 @@
       "billing_month": "2026-04",
       "location": "Salary Account",
       "tx_subtype": "normal"
+    },
+    {
+      "id": 1776255294462,
+      "type": "expense",
+      "desc": "10000",
+      "amount": 10000.0,
+      "cat": "Gifts",
+      "date": "2026-04-13",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Salary Account",
+      "tx_subtype": "normal"
     }
   ],
   "categories": [
