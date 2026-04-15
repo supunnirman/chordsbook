@@ -408,14 +408,21 @@
       "name": "Front Tyres Replacement",
       "total_amount": 50000.0,
       "monthly_installment": 4250.0,
-      "months_remaining": 12,
-      "paid_so_far": 0.0,
+      "months_remaining": 11,
+      "paid_so_far": 4250.0,
       "lender": "PAN ASIA BANK",
       "start_date": "2026-04-14",
       "active": true,
       "notes": "",
       "cc_id": 1776181935084,
-      "payments": [],
+      "payments": [
+        {
+          "id": 1776255061393,
+          "date": "2026-04-15",
+          "amount": 4250.0,
+          "source": "Salary Account"
+        }
+      ],
       "credit_card_id": null
     }
   ],
