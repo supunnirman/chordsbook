@@ -1,0 +1,151 @@
+{
+  "transactions": [],
+  "categories": [
+    {
+      "name": "Salary",
+      "icon": "💼",
+      "type": "income"
+    },
+    {
+      "name": "Business",
+      "icon": "🏢",
+      "type": "income"
+    },
+    {
+      "name": "Investment",
+      "icon": "📈",
+      "type": "income"
+    },
+    {
+      "name": "Freelance",
+      "icon": "💻",
+      "type": "income"
+    },
+    {
+      "name": "Fuel Allowance",
+      "icon": "⛽",
+      "type": "income"
+    },
+    {
+      "name": "Vehicle Allowance",
+      "icon": "🚘",
+      "type": "income"
+    },
+    {
+      "name": "Gifts",
+      "icon": "🎁",
+      "type": "both"
+    },
+    {
+      "name": "Food",
+      "icon": "🛒",
+      "type": "expense"
+    },
+    {
+      "name": "Housing",
+      "icon": "🏠",
+      "type": "expense"
+    },
+    {
+      "name": "Transport",
+      "icon": "🚗",
+      "type": "expense"
+    },
+    {
+      "name": "Healthcare",
+      "icon": "🏥",
+      "type": "expense"
+    },
+    {
+      "name": "Entertainment",
+      "icon": "🎬",
+      "type": "expense"
+    },
+    {
+      "name": "Utilities",
+      "icon": "💡",
+      "type": "expense"
+    },
+    {
+      "name": "Education",
+      "icon": "📚",
+      "type": "expense"
+    },
+    {
+      "name": "Shopping",
+      "icon": "🛍",
+      "type": "expense"
+    },
+    {
+      "name": "Allowance",
+      "icon": "💳",
+      "type": "expense"
+    },
+    {
+      "name": "Credit Card",
+      "icon": "💳",
+      "type": "expense"
+    },
+    {
+      "name": "Electricity",
+      "icon": "⚡",
+      "type": "expense"
+    },
+    {
+      "name": "Water Bill",
+      "icon": "🚿",
+      "type": "expense"
+    },
+    {
+      "name": "Dialog TV",
+      "icon": "📺",
+      "type": "expense"
+    },
+    {
+      "name": "Internet",
+      "icon": "🌐",
+      "type": "expense"
+    },
+    {
+      "name": "Fuel",
+      "icon": "⛽",
+      "type": "expense"
+    },
+    {
+      "name": "EMI",
+      "icon": "🏦",
+      "type": "expense"
+    },
+    {
+      "name": "Other",
+      "icon": "📦",
+      "type": "both"
+    }
+  ],
+  "settings": {
+    "currency": "LKR",
+    "currency_symbol": "Rs."
+  },
+  "emi_plans": [],
+  "planner": [],
+  "savings_goals": [],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Salary Account",
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "name": "Savings Account",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "name": "Wallet",
+      "notes": ""
+    }
+  ],
+  "location_transfers": [],
+  "credit_cards": []
+}
