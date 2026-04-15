@@ -25,6 +25,19 @@
       "billing_month": "2026-04",
       "location": "Salary Account",
       "tx_subtype": "normal"
+    },
+    {
+      "id": 1776255418090,
+      "type": "income",
+      "desc": "salary",
+      "amount": 133000.0,
+      "cat": "Salary",
+      "date": "2026-03-25",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Salary Account",
+      "tx_subtype": "normal"
     }
   ],
   "categories": [
