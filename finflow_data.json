@@ -220,14 +220,6 @@
   "location_transfers": [],
   "credit_cards": [
     {
-      "id": 1776255375556,
-      "name": "Fuel Card",
-      "limit": 44000.0,
-      "available": 18000.0,
-      "notes": "",
-      "topups": []
-    },
-    {
       "id": 1776255339834,
       "name": "PABC Bank",
       "limit": 100000.0,
