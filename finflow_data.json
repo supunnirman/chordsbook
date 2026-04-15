@@ -174,5 +174,14 @@
     }
   ],
   "location_transfers": [],
-  "credit_cards": []
+  "credit_cards": [
+    {
+      "id": 1776255375556,
+      "name": "Fuel Card",
+      "limit": 44000.0,
+      "available": 18000.0,
+      "notes": "",
+      "topups": []
+    }
+  ]
 }
