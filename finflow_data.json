@@ -182,6 +182,14 @@
       "available": 18000.0,
       "notes": "",
       "topups": []
+    },
+    {
+      "id": 1776255339834,
+      "name": "PABC Bank",
+      "limit": 100000.0,
+      "available": 68000.0,
+      "notes": "",
+      "topups": []
     }
   ]
 }
