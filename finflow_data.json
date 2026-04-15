@@ -75,7 +75,7 @@
       "recur": "once",
       "notes": "Top-up",
       "billing_month": "2026-04",
-      "location": "Fuel Card Account",
+      "location": "Wallet",
       "tx_subtype": "normal"
     },
     {
@@ -88,7 +88,7 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Fuel Card Account",
+      "location": "Wallet",
       "tx_subtype": "normal"
     }
   ],
@@ -241,11 +241,6 @@
       "id": 1776256371529,
       "name": "Amma's Floating Account",
       "notes": "Sampath Account"
-    },
-    {
-      "id": 1776256396814,
-      "name": "Fuel Card Account",
-      "notes": "Company Issued"
     }
   ],
   "location_transfers": [],
