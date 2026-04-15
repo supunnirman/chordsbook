@@ -254,7 +254,7 @@
       "paid_so_far": 535000.0,
       "lender": "Sampath Bank",
       "start_date": "2026-04-15",
-      "active": true,
+      "active": false,
       "notes": "",
       "credit_card_id": null,
       "payments": []
