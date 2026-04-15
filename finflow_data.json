@@ -10,7 +10,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Salary Account"
+      "location": "Salary Account",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158216011,
@@ -22,7 +23,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Salary Account"
+      "location": "Salary Account",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158302610,
@@ -34,7 +36,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Fuel Card"
+      "location": "Fuel Card",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158357950,
@@ -46,7 +49,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Amma Account"
+      "location": "Amma Account",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158573044,
@@ -58,7 +62,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": ""
+      "location": "",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158617493,
@@ -70,7 +75,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Salary Account"
+      "location": "Salary Account",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158692489,
@@ -82,7 +88,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": ""
+      "location": "",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158741058,
@@ -94,7 +101,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": ""
+      "location": "",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158782064,
@@ -106,7 +114,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Savings Account"
+      "location": "Savings Account",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158808167,
@@ -118,7 +127,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Salary Account"
+      "location": "Salary Account",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158848173,
@@ -130,7 +140,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Fuel Card"
+      "location": "Fuel Card",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158873135,
@@ -142,7 +153,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Fuel Card"
+      "location": "Fuel Card",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776158935026,
@@ -154,7 +166,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": "Salary Account"
+      "location": "Salary Account",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776163827903,
@@ -166,7 +179,8 @@
       "recur": "once",
       "notes": "",
       "billing_month": "2026-04",
-      "location": ""
+      "location": "",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776182292282,
@@ -178,7 +192,8 @@
       "recur": "once",
       "notes": "Tyres",
       "billing_month": "2026-04",
-      "location": "💳 PABC Card"
+      "location": "💳 PABC Card",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776182330626,
@@ -190,7 +205,8 @@
       "recur": "once",
       "notes": "Top-up from: 🤲 Hands-on Cash",
       "billing_month": "2026-04",
-      "location": "💳 PABC Card"
+      "location": "💳 PABC Card",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776182624404,
@@ -202,7 +218,8 @@
       "recur": "once",
       "notes": "Top-up from: Salary Account",
       "billing_month": "2026-04",
-      "location": "💳 PABC Card"
+      "location": "💳 PABC Card",
+      "tx_subtype": "normal"
     },
     {
       "id": 1776182738109,
@@ -214,7 +231,34 @@
       "recur": "once",
       "notes": "Top-up from: Salary Account",
       "billing_month": "2026-04",
-      "location": "💳 PABC Card"
+      "location": "💳 PABC Card",
+      "tx_subtype": "normal"
+    },
+    {
+      "id": 1776238992714,
+      "type": "expense",
+      "desc": "Transfer → 💳 PABC Card",
+      "amount": 10000.0,
+      "cat": "Other",
+      "date": "2026-04-15",
+      "recur": "once",
+      "notes": "From Savings Account",
+      "billing_month": "2026-04",
+      "location": "Savings Account",
+      "tx_subtype": "transfer"
+    },
+    {
+      "id": 1776238965334,
+      "type": "income",
+      "desc": "Transfer ← Savings Account",
+      "amount": 10000.0,
+      "cat": "Other",
+      "date": "2026-04-15",
+      "recur": "once",
+      "notes": "To 💳 PABC Card",
+      "billing_month": "2026-04",
+      "location": "💳 PABC Card",
+      "tx_subtype": "transfer"
     }
   ],
   "categories": [
@@ -356,7 +400,8 @@
       "active": true,
       "notes": "",
       "cc_id": null,
-      "payments": []
+      "payments": [],
+      "credit_card_id": null
     },
     {
       "id": 1776182237269,
@@ -370,7 +415,8 @@
       "active": true,
       "notes": "",
       "cc_id": 1776181935084,
-      "payments": []
+      "payments": [],
+      "credit_card_id": null
     }
   ],
   "planner": [
@@ -471,7 +517,16 @@
       "notes": "For Car Allowance"
     }
   ],
-  "location_transfers": [],
+  "location_transfers": [
+    {
+      "id": 1776238987010,
+      "date": "2026-04-15",
+      "from_loc": "Savings Account",
+      "to_loc": "💳 PABC Card",
+      "amount": 10000.0,
+      "notes": "Inter-account transfer"
+    }
+  ],
   "credit_cards": [
     {
       "id": 1776181935084,
@@ -480,7 +535,18 @@
       "credit_limit": 100000.0,
       "available_credit": 76500.0,
       "locked_credit": 0.0,
-      "created": "2026-04-14"
+      "created": "2026-04-14",
+      "topups": [
+        {
+          "id": 1776238957669,
+          "date": "2026-04-15",
+          "amount": 10000.0,
+          "source": "Savings Account",
+          "notes": "Transfer"
+        }
+      ],
+      "limit": 0,
+      "available": 0
     }
   ]
 }
