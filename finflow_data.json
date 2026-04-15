@@ -64,6 +64,19 @@
       "billing_month": "2026-04",
       "location": "Salary Account",
       "tx_subtype": "normal"
+    },
+    {
+      "id": 1776256454675,
+      "type": "income",
+      "desc": "Fuel Card Topup",
+      "amount": 44000.0,
+      "cat": "Fuel Allowance",
+      "date": "2026-04-01",
+      "recur": "once",
+      "notes": "Top-up",
+      "billing_month": "2026-04",
+      "location": "Fuel Card Account",
+      "tx_subtype": "normal"
     }
   ],
   "categories": [
