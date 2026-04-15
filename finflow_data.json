@@ -215,6 +215,11 @@
       "id": 1776256371529,
       "name": "Amma's Floating Account",
       "notes": "Sampath Account"
+    },
+    {
+      "id": 1776256396814,
+      "name": "Fuel Card Account",
+      "notes": "Company Issued"
     }
   ],
   "location_transfers": [],
