@@ -430,6 +430,24 @@
       "status": "completed",
       "created": "2026-04-14",
       "allocations": []
+    },
+    {
+      "id": 1776253711263,
+      "name": "Galle Trip",
+      "target": 15000.0,
+      "reserved": 3000.0,
+      "deadline": "2026-05",
+      "notes": "",
+      "status": "active",
+      "created": "2026-04-15",
+      "allocations": [
+        {
+          "id": 1776253773758,
+          "date": "2026-04-15",
+          "amount": 3000.0,
+          "source": "Salary Account"
+        }
+      ]
     }
   ],
   "savings_goals": [
