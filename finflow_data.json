@@ -244,7 +244,22 @@
     "currency": "LKR",
     "currency_symbol": "Rs."
   },
-  "emi_plans": [],
+  "emi_plans": [
+    {
+      "id": 1776256789461,
+      "name": "Car Loan",
+      "total_amount": 640000.0,
+      "monthly_installment": 107000.0,
+      "months_remaining": 60,
+      "paid_so_far": 535000.0,
+      "lender": "Sampath Bank",
+      "start_date": "2026-04-15",
+      "active": true,
+      "notes": "",
+      "credit_card_id": null,
+      "payments": []
+    }
+  ],
   "planner": [],
   "savings_goals": [],
   "locations": [
