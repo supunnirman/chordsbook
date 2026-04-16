@@ -309,7 +309,16 @@
       "notes": "Sampath Account"
     }
   ],
-  "location_transfers": [],
+  "location_transfers": [
+    {
+      "id": 1776315318769,
+      "date": "2026-04-16",
+      "from_loc": "Salary Account",
+      "to_loc": "CC:Fuel Card",
+      "amount": 6000.0,
+      "notes": "CC Top-up"
+    }
+  ],
   "credit_cards": [
     {
       "id": 1776255339834,
@@ -330,9 +339,16 @@
       "id": 1776256656651,
       "name": "Fuel Card",
       "limit": 44000.0,
-      "available": 22000.0,
+      "available": 34000.0,
       "notes": "Company Owned Card",
-      "topups": []
+      "topups": [
+        {
+          "id": 1776315324649,
+          "date": "2026-04-16",
+          "amount": 6000.0,
+          "source": "Salary Account"
+        }
+      ]
     }
   ]
 }
