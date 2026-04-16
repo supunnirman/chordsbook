@@ -258,6 +258,20 @@
       "notes": "",
       "credit_card_id": null,
       "payments": []
+    },
+    {
+      "id": 1776315358806,
+      "name": "Front Tyres",
+      "total_amount": 60000.0,
+      "monthly_installment": 5000.0,
+      "months_remaining": 12,
+      "paid_so_far": 0.0,
+      "lender": "",
+      "start_date": "2026-04-16",
+      "active": true,
+      "notes": "",
+      "credit_card_id": 1776255339834,
+      "payments": []
     }
   ],
   "planner": [
@@ -324,7 +338,7 @@
       "id": 1776255339834,
       "name": "PABC Bank",
       "limit": 100000.0,
-      "available": 75000.0,
+      "available": 15000.0,
       "notes": "",
       "topups": [
         {
