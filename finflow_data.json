@@ -315,9 +315,16 @@
       "id": 1776255339834,
       "name": "PABC Bank",
       "limit": 100000.0,
-      "available": 68000.0,
+      "available": 75000.0,
       "notes": "",
-      "topups": []
+      "topups": [
+        {
+          "id": 1776315273206,
+          "date": "2026-04-16",
+          "amount": 3500.0,
+          "source": "💵 Hands-on Cash"
+        }
+      ]
     },
     {
       "id": 1776256656651,
