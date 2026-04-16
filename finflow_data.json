@@ -265,7 +265,7 @@
       "id": 1776315201745,
       "name": "Galle Trip",
       "target": 15000.0,
-      "reserved": 2000.0,
+      "reserved": 4000.0,
       "deadline": "2026-05",
       "notes": "",
       "status": "active",
@@ -276,6 +276,12 @@
           "date": "2026-04-16",
           "amount": 2000.0,
           "source": "💵 Hands-on Cash"
+        },
+        {
+          "id": 1776315188031,
+          "date": "2026-04-16",
+          "amount": 2000.0,
+          "source": "Salary Account"
         }
       ]
     }
