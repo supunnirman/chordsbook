@@ -129,6 +129,19 @@
       "billing_month": "2026-04",
       "location": "💳 PABC Bank",
       "tx_subtype": "normal"
+    },
+    {
+      "id": 1776408280727,
+      "type": "income",
+      "desc": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "amount": 50000000.0,
+      "cat": "Salary",
+      "date": "2026-04-17",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Salary Account",
+      "tx_subtype": "normal"
     }
   ],
   "categories": [
