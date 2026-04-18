@@ -14,19 +14,6 @@
       "tx_subtype": "normal"
     },
     {
-      "id": 1776255435595,
-      "type": "income",
-      "desc": "salary",
-      "amount": 150000.0,
-      "cat": "Salary",
-      "date": "2026-04-08",
-      "recur": "once",
-      "notes": "",
-      "billing_month": "2026-04",
-      "location": "Salary Account",
-      "tx_subtype": "normal"
-    },
-    {
       "id": 1776255473136,
       "type": "expense",
       "desc": "car",
