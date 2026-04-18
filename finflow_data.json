@@ -260,6 +260,14 @@
       "available": 21241.0,
       "notes": "American Express",
       "topups": []
+    },
+    {
+      "id": 1776487780869,
+      "name": "Pan Asia Bank Card",
+      "limit": 100000.0,
+      "available": 61859.0,
+      "notes": "Master Card",
+      "topups": []
     }
   ]
 }
