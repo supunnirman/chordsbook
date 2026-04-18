@@ -25,6 +25,19 @@
       "billing_month": "2026-04",
       "location": "Savings Account",
       "tx_subtype": "normal"
+    },
+    {
+      "id": 1776487553542,
+      "type": "income",
+      "desc": "Cash with amma",
+      "amount": 17400.0,
+      "cat": "Vehicle Allowance",
+      "date": "2026-04-08",
+      "recur": "once",
+      "notes": "Starting Balance",
+      "billing_month": "2026-04",
+      "location": "Amma's Floating Account",
+      "tx_subtype": "normal"
     }
   ],
   "categories": [
