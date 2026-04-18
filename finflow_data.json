@@ -12,6 +12,19 @@
       "billing_month": "2026-04",
       "location": "Salary Account",
       "tx_subtype": "normal"
+    },
+    {
+      "id": 1776487475456,
+      "type": "income",
+      "desc": "Starting Balance",
+      "amount": 2439.0,
+      "cat": "Other",
+      "date": "2026-04-01",
+      "recur": "once",
+      "notes": "Starting Balance",
+      "billing_month": "2026-04",
+      "location": "Savings Account",
+      "tx_subtype": "normal"
     }
   ],
   "categories": [
