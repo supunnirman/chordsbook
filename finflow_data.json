@@ -1,19 +1,6 @@
 {
   "transactions": [
     {
-      "id": 1776255285250,
-      "type": "income",
-      "desc": "test",
-      "amount": 50000.0,
-      "cat": "Salary",
-      "date": "2026-04-06",
-      "recur": "once",
-      "notes": "",
-      "billing_month": "2026-04",
-      "location": "Salary Account",
-      "tx_subtype": "normal"
-    },
-    {
       "id": 1776255294462,
       "type": "expense",
       "desc": "10000",
