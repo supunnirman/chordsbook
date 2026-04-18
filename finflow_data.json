@@ -38,6 +38,19 @@
       "billing_month": "2026-04",
       "location": "Amma's Floating Account",
       "tx_subtype": "normal"
+    },
+    {
+      "id": 1776487597520,
+      "type": "income",
+      "desc": "Starting Balance in Wallet",
+      "amount": 5500.0,
+      "cat": "Other",
+      "date": "2026-04-17",
+      "recur": "once",
+      "notes": "Wallet",
+      "billing_month": "2026-04",
+      "location": "Wallet",
+      "tx_subtype": "normal"
     }
   ],
   "categories": [
