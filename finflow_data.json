@@ -252,5 +252,14 @@
       "notes": "CC Top-up"
     }
   ],
-  "credit_cards": []
+  "credit_cards": [
+    {
+      "id": 1776487706340,
+      "name": "Fuel Card",
+      "limit": 44118.0,
+      "available": 21241.0,
+      "notes": "American Express",
+      "topups": []
+    }
+  ]
 }
