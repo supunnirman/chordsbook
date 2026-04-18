@@ -127,41 +127,7 @@
     "currency_symbol": "Rs."
   },
   "emi_plans": [
-    {
-      "id": 1776256789461,
-      "name": "Car Loan",
-      "total_amount": 640000.0,
-      "monthly_installment": 107000.0,
-      "months_remaining": 60,
-      "paid_so_far": 535000.0,
-      "lender": "Sampath Bank",
-      "start_date": "2026-04-15",
-      "active": false,
-      "notes": "",
-      "credit_card_id": null,
-      "payments": []
-    },
-    {
-      "id": 1776315358806,
-      "name": "Front Tyres",
-      "total_amount": 60000.0,
-      "monthly_installment": 5000.0,
-      "months_remaining": 11,
-      "paid_so_far": 7000.0,
-      "lender": "",
-      "start_date": "2026-04-16",
-      "active": false,
-      "notes": "",
-      "credit_card_id": 1776255339834,
-      "payments": [
-        {
-          "id": 1776315373663,
-          "date": "2026-04-16",
-          "amount": 7000.0,
-          "source": "Salary Account"
-        }
-      ]
-    }
+    
   ],
   "planner": [
     {
