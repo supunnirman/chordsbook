@@ -14,19 +14,6 @@
       "tx_subtype": "normal"
     },
     {
-      "id": 1776256527595,
-      "type": "expense",
-      "desc": "Fuel",
-      "amount": 16000.0,
-      "cat": "Fuel",
-      "date": "2026-04-10",
-      "recur": "once",
-      "notes": "",
-      "billing_month": "2026-04",
-      "location": "Wallet",
-      "tx_subtype": "normal"
-    },
-    {
       "id": 1776256577889,
       "type": "expense",
       "desc": "44000",
