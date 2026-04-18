@@ -1,19 +1,6 @@
 {
   "transactions": [
     {
-      "id": 1776256577889,
-      "type": "expense",
-      "desc": "44000",
-      "amount": 44000.0,
-      "cat": "Gifts",
-      "date": "2026-04-15",
-      "recur": "once",
-      "notes": "",
-      "billing_month": "2026-04",
-      "location": "Wallet",
-      "tx_subtype": "normal"
-    },
-    {
       "id": 1776315432732,
       "type": "income",
       "desc": "topup",
