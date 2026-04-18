@@ -126,9 +126,7 @@
     "currency": "LKR",
     "currency_symbol": "Rs."
   },
-  "emi_plans": [
-    
-  ],
+  "emi_plans": [],
   "planner": [
     {
       "id": 1776315201745,
@@ -137,7 +135,7 @@
       "reserved": 4000.0,
       "deadline": "2026-05",
       "notes": "",
-      "status": "active",
+      "status": "completed",
       "created": "2026-04-16",
       "allocations": [
         {
