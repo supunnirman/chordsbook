@@ -1,19 +1,5 @@
 {
-  "transactions": [
-    {
-      "id": 1776315432732,
-      "type": "income",
-      "desc": "topup",
-      "amount": 10000.0,
-      "cat": "Other",
-      "date": "2026-04-16",
-      "recur": "once",
-      "notes": "",
-      "billing_month": "2026-04",
-      "location": "💳 PABC Bank",
-      "tx_subtype": "normal"
-    }
-  ],
+  "transactions": [],
   "categories": [
     {
       "name": "Salary",
