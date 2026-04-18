@@ -1,5 +1,19 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": 1776487419461,
+      "type": "income",
+      "desc": "Starting Balance",
+      "amount": 25728.0,
+      "cat": "Other",
+      "date": "2026-04-01",
+      "recur": "once",
+      "notes": "Starting Salary",
+      "billing_month": "2026-04",
+      "location": "Salary Account",
+      "tx_subtype": "normal"
+    }
+  ],
   "categories": [
     {
       "name": "Salary",
