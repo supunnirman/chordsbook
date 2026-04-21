@@ -77,6 +77,19 @@
       "billing_month": "2026-04",
       "location": "Hands-on Cash",
       "tx_subtype": "normal"
+    },
+    {
+      "id": 1776766585468,
+      "type": "income",
+      "desc": "sunquick",
+      "amount": 1840.0,
+      "cat": "Business",
+      "date": "2026-04-19",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "Amma's Floating Account",
+      "tx_subtype": "normal"
     }
   ],
   "categories": [
