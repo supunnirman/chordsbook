@@ -90,6 +90,19 @@
       "billing_month": "2026-04",
       "location": "Amma's Floating Account",
       "tx_subtype": "normal"
+    },
+    {
+      "id": 1776766617358,
+      "type": "expense",
+      "desc": "Tyres",
+      "amount": 57400.0,
+      "cat": "Transport",
+      "date": "2026-04-18",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "💳 Pan Asia Bank Card",
+      "tx_subtype": "normal"
     }
   ],
   "categories": [
@@ -291,7 +304,7 @@
       "id": 1776487780869,
       "name": "Pan Asia Bank Card",
       "limit": 100000.0,
-      "available": 61859.0,
+      "available": 4459.0,
       "notes": "Master Card",
       "topups": []
     }
