@@ -103,6 +103,19 @@
       "billing_month": "2026-04",
       "location": "💳 Pan Asia Bank Card",
       "tx_subtype": "normal"
+    },
+    {
+      "id": 1776766645321,
+      "type": "expense",
+      "desc": "Fuel Card",
+      "amount": 21000.0,
+      "cat": "Fuel",
+      "date": "2026-04-18",
+      "recur": "once",
+      "notes": "",
+      "billing_month": "2026-04",
+      "location": "💳 Fuel Card",
+      "tx_subtype": "normal"
     }
   ],
   "categories": [
@@ -296,7 +309,7 @@
       "id": 1776487706340,
       "name": "Fuel Card",
       "limit": 44118.0,
-      "available": 21241.0,
+      "available": 241.0,
       "notes": "American Express",
       "topups": []
     },
